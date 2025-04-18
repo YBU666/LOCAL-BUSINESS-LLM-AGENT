@@ -13,6 +13,17 @@ You can find the application screenshots in the `public` directory.
 - Python-based implementation
 - Environment variable configuration for API keys
 
+## 📸 Screenshots
+
+You can find the application screenshots in the `public` directory:
+
+<img src="public/Screenshot 2025-04-18 at 10.24.10 AM.png" width="600"/>
+<br/>
+<img src="public/Screenshot 2025-04-18 at 10.24.43 AM.png" width="600"/>
+<br/>
+<img src="public/Screenshot 2025-04-18 at 10.24.55 AM.png" width="600"/>
+
+
 ## 🛠️ Setup & Installation
 
 1. Clone the repository:
