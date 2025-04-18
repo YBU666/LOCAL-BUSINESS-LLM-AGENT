@@ -16,9 +16,9 @@ You can find the application screenshots in the `public` directory.
 ## 📸 Screenshots
 
 
-![](public/screenshot-2025-04-18-10-24-10-am.png)
-![](public/screenshot-2025-04-18-10-24-43-am.png)
-![](public/screenshot-2025-04-18-10-24-55-am.png)
+![](https://github.com/YBU666/LOCAL-BUSINESS-LLM-AGENT/blob/main/public/Screenshot%202025-04-18%20at%2010.24.10%E2%80%AFAM.png?raw=true)
+![](https://github.com/YBU666/LOCAL-BUSINESS-LLM-AGENT/blob/main/public/Screenshot%202025-04-18%20at%2010.24.43%E2%80%AFAM.png?raw=true)
+![](https://github.com/YBU666/LOCAL-BUSINESS-LLM-AGENT/blob/main/public/Screenshot%202025-04-18%20at%2010.24.55%E2%80%AFAM.png?raw=true)
 
 ## 🛠️ Setup & Installation
 
