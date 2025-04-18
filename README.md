@@ -15,14 +15,10 @@ You can find the application screenshots in the `public` directory.
 
 ## 📸 Screenshots
 
-You can find the application screenshots in the `public` directory:
 
-<img src="public/Screenshot 2025-04-18 at 10.24.10 AM.png" width="600"/>
-<br/>
-<img src="public/Screenshot 2025-04-18 at 10.24.43 AM.png" width="600"/>
-<br/>
-<img src="public/Screenshot 2025-04-18 at 10.24.55 AM.png" width="600"/>
-
+![](public/screenshot-2025-04-18-10-24-10-am.png)
+![](public/screenshot-2025-04-18-10-24-43-am.png)
+![](public/screenshot-2025-04-18-10-24-55-am.png)
 
 ## 🛠️ Setup & Installation
 
